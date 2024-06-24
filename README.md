@@ -1,7 +1,9 @@
 # 🌨🌨 Rangga Aditya
 
 **`Digital Craftsman (Developer/Photographer/CyberSecurity)`**
+<img src="https://icons8.com/illustrations/author/XTPoH093lluQ" alt="Programming GIF" width="100">
 
+Illustration by <a href="https://icons8.com/illustrations/author/XTPoH093lluQ">Viktoriya Belinio</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 ---
 
 👋 **Hello there!**
