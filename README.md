@@ -1,8 +1,6 @@
 # 🌨🌨 Rangga Aditya
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
-### Profile GitHub Rangga Aditya
+**`Digital Craftsman (Developer/Photographer/CyberSecurity)`**
 
 ---
 
