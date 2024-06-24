@@ -1,9 +1,10 @@
 # 🌨🌨 Rangga Aditya
 
 **`Digital Craftsman (Developer/Photographer/CyberSecurity)`**
-<img src="https://icons8.com/illustrations/author/XTPoH093lluQ" alt="Programming GIF" width="100">
+<img src="https://github.com/Rangga008/Rangga008/assets/70432294/3e55b14c-13c4-48aa-8bd8-793319f90330" alt="Programming GIF" width="100">
 
-![Uploading juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.gif…]()
+![juicy-man-programmer-writing-code-and-make-web-design-on-a-pc](https://github.com/Rangga008/Rangga008/assets/70432294/3e55b14c-13c4-48aa-8bd8-793319f90330)
+
 
 ---
 
