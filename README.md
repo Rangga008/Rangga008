@@ -1,7 +1,7 @@
 # 🌨🌨 Rangga Aditya
 
 **`Digital Craftsman (Developer/Photographer/CyberSecurity)`**
-Illustration by <a href="https://icons8.com/illustrations/author/XTPoH093lluQ">Viktoriya Belinio</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
 ---
 
 👋 **Hello there!**
