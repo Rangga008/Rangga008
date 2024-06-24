@@ -16,7 +16,7 @@ I'm **Rangga Aditya**, a passionate new explorer in the world of programming. As
 - 🔭 **Projects**: My repositories will feature small projects, coding exercises, and tutorials that reflect my learning progress. Feel free to explore, use, and provide feedback.
 - 🤝 **Collaboration**: Open to collaboration and learning from experienced developers. If you have suggestions or want to collaborate on beginner-friendly projects, reach out!
 - 💡 **Interests**: Besides coding, I'm interested in problem-solving, building innovative solutions, and understanding how technology can improve lives.
-- 📫 **Contact**: You can reach me through GitHub issues or connect with me on [LinkedIn](https://www.linkedin.com/in/rangga-aditya).
+- 📫 **Contact**: You can reach me through GitHub issues or connect with me on [LinkedIn](https://www.linkedin.com/in/m-rangga-aditya-07b22624b).
 
 ---
 
