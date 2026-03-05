@@ -98,7 +98,7 @@ I specialize in backend architecture, distributed systems, and deployment pipeli
 ## 🔗 Let's Connect
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/m-rangga-aditya-07b22624b](https://www.linkedin.com/in/m-rangga-aditya-07b22624b)
-* 📷 Instagram: [https://www.instagram.com/rizk.rangga09/](https://www.instagram.com/rizk.rangga09/)
+* 📷 Instagram: [https://www.instagram.com/Kuren008/](https://www.instagram.com/kuren.008/)
 * 🌍 Blog: [https://baladaops.my.id](https://baladaops.my.id)
 
 ---
