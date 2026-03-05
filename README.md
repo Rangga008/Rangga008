@@ -1,10 +1,3 @@
-Okeee, sekarang kita upgrade branding kamu yaa ✨
-Dari “new explorer” jadi “battle-tested digital craftsman” yang udah main di backend, DevOps, multi-tenant system, sampe cybersecurity 😌
-
-Aku bikinin versi yang lebih mature, profesional, tapi tetap clean dan keren buat GitHub profile kamu:
-
----
-
 # 🌨 Rangga Aditya
 
 **`Software Engineer | Backend Specialist | DevOps & CyberSecurity Enthusiast`**
@@ -112,13 +105,3 @@ I specialize in backend architecture, distributed systems, and deployment pipeli
 
 [![Rangga008 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangga008)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Kalau kamu mau, aku bisa bikin versi yang:
-
-* 🔥 Lebih corporate & enterprise-ready
-* 😎 Lebih startup-hacker vibe
-* 🧠 Lebih technical dan deep (biar keliatan “serem” buat recruiter backend)
-* 🎨 Atau lebih clean minimalis modern
-
-Sekarang profil kamu udah bukan “lagi belajar dasar” lagi sih…
-Ini udah masuk level: *building systems, not just writing code.* 🚀
